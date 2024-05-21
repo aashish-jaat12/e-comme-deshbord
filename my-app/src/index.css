@@ -1,0 +1,46 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.img{
+  height: 40px;
+}
+.witdh{
+  
+  
+  color: rebeccapurple;
+   
+  display: flex;
+  justify-content: center;
+   align-content: center;
+  }
+  .witdhinput{
+  width: 60vw;
+  }
+  .margin{
+    margin-top: 80px;
+   
+  }
+  .user img{
+background-color: azure;
+border-radius: 50%;
+width: 20vw;
+margin: 20px;
+margin-left: 50px;
+  }
+  .user{
+    display: flex;
+    /* margin-top: 40px; */
+  }
+  .user h1 {
+    margin: 12%;
+  }
+  .email h3{
+    /* text-align: center; */
+    margin-left: 5%;
+  }
